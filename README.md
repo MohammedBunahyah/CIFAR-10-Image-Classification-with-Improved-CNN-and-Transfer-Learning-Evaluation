@@ -10,3 +10,5 @@ https://github.com/ilama2/CV-TechTrio/tree/main/model-2
 https://github.com/ilama2/CV-TechTrio/tree/main/Model-3
 # Model 4 
 https://drive.google.com/drive/folders/19gIbyoSewcSJAk-ZiqxCmQQnNHpFeduN?usp=sharing
+# Model 5
+https://drive.google.com/drive/folders/1nGPGM_vwk5YOZZgUr0XSfKJVxeTleWNB?usp=sharing
